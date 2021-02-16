@@ -25,7 +25,7 @@ function square (); {
 //console.log (z);
 
 function beNice (); {
-  greeting = 'hello';
+  greeting = 'greeting', + firstName;
   firstName = 'hello';
   console.log(beNice);
 };
