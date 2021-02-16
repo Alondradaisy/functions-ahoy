@@ -2,9 +2,40 @@
  * YOUR CODE GOES HERE THIS TIME! *
  **********************************/
 
+let x = 3;
+let y = 10;
+let z = 4;
+let greeting = 'hello';
+let firstName = 'Alondra';
+let callStatus = 'ringing';
 
+function double() {
+  x = x * 2;
+};
+// console.log(x);
 
+function triple (); {
+  y = y * 3;
+};
+//console.log(y);
 
+function square (); {
+  z = z * z;
+};
+//console.log (z);
+
+function beNice (); {
+  greeting = 'hello';
+  firstName = 'hello';
+  console.log(beNice);
+};
+
+function changeName (); {
+  firstName = 'danger';
+};
+function hangUp (); {
+  callStatus = 'callEnded';
+};
  
 
 /*********************************************************************************************************************
